@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<link rel="stylesheet" href="новый.css">
+			<title>Pied Piper Landing Page</title>
+		</head>
+		<body>
+			<p><a href="#">the problem</a> | <a href="#">PiedPiperCoin</a> | <a  href="#">the team</a></p>
+			
+		</body>
+	</html>

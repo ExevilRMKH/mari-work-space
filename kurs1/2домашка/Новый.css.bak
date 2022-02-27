@@ -1,0 +1,11 @@
+p {
+	color: #ffffff;
+	background-image: url('C:/Users/ryumina/Desktop/M/Новая папка/2домашка/img/Rectangle.png');
+	background-size: cover;
+	background-position: center center;
+	font-family: Roboto;
+	font-size: 18px;
+	padding: 28px 0px 28px 741px;
+	
+	
+}

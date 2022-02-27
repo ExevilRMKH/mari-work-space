@@ -1,0 +1,27 @@
+body{
+	margin: auto;
+	width: 60%;
+}
+p{
+	background:yellow;
+}
+h1, h2, h3 {
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	margin-top: 1em;
+}
+h1 {
+	font-size: 30px;
+}
+td, th, table {
+	border: 1px solid black;
+}
+figcaption {
+	font-style: italic;
+	display: block;
+}
+img {
+	width: 200px;
+}
+figure {
+	float: right;
+}

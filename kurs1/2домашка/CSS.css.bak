@@ -1,0 +1,35 @@
+ul {
+	list-style: none;
+	margin: 0;
+	padding-left: 0;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+li{
+	display: inline;
+	font-family: Arial;
+	font-size: 18px;
+}
+.menu-main {
+	margin: 26px 54px 26px 0px;
+	float: right;
+}
+.top-menu {
+	color: #ffffff;
+	background-image: url('C:/Users/exevi/OneDrive/Рабочий стол/kurs1/2домашка/img/Rectangle.png');
+	background-size: cover;
+	background-position: center center;
+}
+footer{
+	background: blue;
+}
+div{
+	color: white;
+	font-family: Arial;
+	font-size: 28px;
+	background-image: url('C:/Users/exevi/OneDrive/Рабочий стол/kurs1/2домашка/img/image.png');
+	background-size: cover;
+	background-position: center center;
+}
